@@ -8,7 +8,7 @@
 <!--- If suggesting a new feature or change, please discuss it in an issue first -->
 <!--- If fixing a bug, there should be an issue describing it with steps to reproduce -->
 
-<!--- Please link to the issue here: -->
+<!--- Please link to the issue here (例: close #1234) -->
 close #
 
 ## Screenshots
